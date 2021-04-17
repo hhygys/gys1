@@ -56,7 +56,7 @@ return array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost:3307',
 			'database'  => 'wenjuan2021',
-			'username'  => 'root',
+			'username'  => 'wenjuan2021',
 			'password'  => '123456',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',

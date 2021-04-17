@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bdf6711-2321-45d9-b088-cc664c7a3b09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/php/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/php/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/php/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/php/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/php/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/php/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/php/vendor/ircmaxell/password-compat" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/php/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/php/vendor/patchwork/utf8" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/php/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/php/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/php/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/php/vendor/jeremeamia/superclosure" />
+      <path value="$PROJECT_DIR$/php/vendor/predis/predis" />
+      <path value="$PROJECT_DIR$/php/vendor/classpreloader/classpreloader" />
+      <path value="$PROJECT_DIR$/php/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/php/vendor/composer" />
+      <path value="$PROJECT_DIR$/php/vendor/d11wtq/boris" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qk7ctKNzXFdQ5B3CWGeMKaEJks" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/php/public/assets/css" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\php huanjing\wenjuan2021\php\public\assets\css" />
+      <recent name="D:\php huanjing\wenjuan2021\php\public\assets\js" />
+      <recent name="D:\www\wenjuan2021\php\public\assets\js" />
+      <recent name="D:\www\wenjuan2021\php\public\assets\images" />
+      <recent name="D:\www\wenjuan2021\php\public\assets\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bdf6711-2321-45d9-b088-cc664c7a3b09" name="Default Changelist" comment="" />
+      <created>1617611817908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617611817908</updated>
+      <workItem from="1617611819023" duration="749000" />
+      <workItem from="1617612606804" duration="1484000" />
+      <workItem from="1617622009697" duration="1865000" />
+      <workItem from="1617670320765" duration="736000" />
+      <workItem from="1617694301080" duration="752000" />
+      <workItem from="1617695078536" duration="476000" />
+      <workItem from="1617699460022" duration="9149000" />
+      <workItem from="1617714585291" duration="304000" />
+      <workItem from="1617715039936" duration="1709000" />
+      <workItem from="1618134914709" duration="2182000" />
+      <workItem from="1618148247698" duration="3736000" />
+      <workItem from="1618213736973" duration="462000" />
+      <workItem from="1618215486178" duration="6344000" />
+      <workItem from="1618227475208" duration="4861000" />
+      <workItem from="1618239704547" duration="1281000" />
+      <workItem from="1618272042149" duration="1604000" />
+      <workItem from="1618300324623" duration="52000" />
+      <workItem from="1618300388788" duration="7723000" />
+      <workItem from="1618368271580" duration="2281000" />
+      <workItem from="1618470256807" duration="1109000" />
+      <workItem from="1618486666074" duration="1713000" />
+      <workItem from="1618498225964" duration="340000" />
+      <workItem from="1618580808434" duration="669000" />
+      <workItem from="1618584042298" duration="1484000" />
+      <workItem from="1618585565805" duration="107000" />
+      <workItem from="1618585686953" duration="502000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

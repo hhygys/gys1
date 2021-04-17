@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b58a957-2865-413e-b71a-74f8493a99d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/wenjuan2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/res/css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/res/images/header_bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/res/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/res/images/submit_btn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/survey.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/css/Copy of bayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/css/bayer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/images/editor_add.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/images/editor_diff.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/images/line_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/images/nopic_small.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/res/images/two_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/列表.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../html/后台/登录.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +100,7 @@
       <workItem from="1617614125000" duration="4969000" />
       <workItem from="1617695583499" duration="3357000" />
       <workItem from="1618647194785" duration="268000" />
+      <workItem from="1618657223225" duration="22000" />
     </task>
     <servers />
   </component>
@@ -98,6 +117,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
